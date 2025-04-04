@@ -790,7 +790,9 @@ textarea {
         grid-template-columns: repeat(2, minmax(140px, 1fr)); /* 1 column per row for small screens */
     }
     .skill_grid_temp {
-        padding: 45px;
+        
+        padding: 40px;
+    }
     .grid_pic{
         width: 100%;
     }
