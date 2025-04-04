@@ -301,7 +301,7 @@ a{
 
 .skill_grid_temp {
     background-color: #0f172a; 
-    padding: 60px;
+    padding: 55px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -757,7 +757,7 @@ textarea {
     }
     .work{
         padding: 5px;
-        margin-top: 80px;
+        margin-top: 40px;
     }
     .work_grid {
         grid-template-columns: repeat(1, minmax(250px, 1fr)); /* 1 column on mobile */
