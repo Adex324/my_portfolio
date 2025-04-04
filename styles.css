@@ -779,6 +779,7 @@ textarea {
     input, textarea {
         width: 100%;
     }
+    
    
 }
 @media (max-width: 480px) {
@@ -789,7 +790,7 @@ textarea {
         grid-template-columns: repeat(2, minmax(140px, 1fr)); /* 1 column per row for small screens */
     }
     .grid_pic{
-        width: 90%;
+        width: 100%;
     }
 }
 
