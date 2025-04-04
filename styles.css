@@ -785,7 +785,7 @@ textarea {
         max-width: 100%;
     }
     .skill_grid {
-        grid-template-columns: repeat(2, minmax(180px, 1fr)); /* 1 column per row for small screens */
+        grid-template-columns: repeat(2, minmax(140px, 1fr)); /* 1 column per row for small screens */
     }
 }
 
